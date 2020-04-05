@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\monik\Documents\INFORMÀTICA\PROJECTE FINAL\WebTest\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1939715267.index
+\WebProjecteFinal\src
+C:\Users\monik\Documents\INFORMÀTICA\PROJECTE FINAL\WebTest\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\43923682.index
+\WebProjecteFinal\src

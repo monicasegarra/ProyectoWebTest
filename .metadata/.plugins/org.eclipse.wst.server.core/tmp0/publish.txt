@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Sun Apr 05 19:37:24 CEST 2020
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\monik\\Documents\\INFORM\u00C0TICA\\PROJECTE\ FINAL\\WebTest\\WebProjecteFinal\\WebContent\\WEB-INF\\lib\\spring-web-5.2.3.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.2.3.RELEASE-sources.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\monik\\Documents\\INFORM\u00C0TICA\\PROJECTE\ FINAL\\WebTest\\WebProjecteFinal\\WebContent\\WEB-INF\\lib\\spring-web-5.2.3.RELEASE.jar=WEB-INF/lib/spring-web-5.2.3.RELEASE.jar

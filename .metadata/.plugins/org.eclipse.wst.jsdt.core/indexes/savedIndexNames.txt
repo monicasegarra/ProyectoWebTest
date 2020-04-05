@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\monik\Documents\INFORMÀTICA\PROJECTE FINAL\WebTest\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1994668854.index
+722434414.index
+417379960.index
+3683688815.index
+1939715267.index
+3766625378.index
+4059942058.index

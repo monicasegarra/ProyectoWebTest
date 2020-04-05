@@ -1,0 +1,11 @@
+127.0.0.1 - - [05/Apr/2020:19:09:06 +0200] "GET / HTTP/1.1" 404 637
+0:0:0:0:0:0:0:1 - - [05/Apr/2020:19:09:11 +0200] "GET /WebProjecteFinal/ HTTP/1.1" 200 483
+0:0:0:0:0:0:0:1 - - [05/Apr/2020:19:09:12 +0200] "GET /WebProjecteFinal/recursos/css/estil.css HTTP/1.1" 404 610
+0:0:0:0:0:0:0:1 - - [05/Apr/2020:19:09:12 +0200] "GET /WebProjecteFinal/recursos/javascript/js.js HTTP/1.1" 404 610
+0:0:0:0:0:0:0:1 - - [05/Apr/2020:19:09:12 +0200] "GET /WebProjecteFinal/recursos/imatges/bioritme.jpg HTTP/1.1" 404 610
+0:0:0:0:0:0:0:1 - - [05/Apr/2020:19:09:16 +0200] "GET /WebProjecteFinal/login HTTP/1.1" 404 690
+127.0.0.1 - - [05/Apr/2020:19:37:45 +0200] "GET / HTTP/1.1" 404 637
+0:0:0:0:0:0:0:1 - - [05/Apr/2020:19:37:49 +0200] "GET /WebProjecteFinal/ HTTP/1.1" 200 482
+0:0:0:0:0:0:0:1 - - [05/Apr/2020:19:37:49 +0200] "GET /WebProjecteFinal/recursos/css/estil.css HTTP/1.1" 404 610
+0:0:0:0:0:0:0:1 - - [05/Apr/2020:19:37:49 +0200] "GET /WebProjecteFinal/recursos/imatges/bioritme.jpg HTTP/1.1" 404 610
+0:0:0:0:0:0:0:1 - - [05/Apr/2020:19:37:49 +0200] "GET /WebProjecteFinal/recursos/javascript/js.js HTTP/1.1" 404 610
